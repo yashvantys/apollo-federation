@@ -1,8 +1,4 @@
-# Voyage I: Federation from Day One
-
-Welcome to FlyBy, the companion app of Odyssey Voyage I! You can find the [course lessons and instructions in Odyssey](https://apollographql.com/tutorials/voyage-part1/), Apollo's learning platform.
-
-You can [preview the completed demo app here](https://odyssey-flyby.netlify.app/).
+# Apollo Federation
 
 ## How to use this repo
 
@@ -113,6 +109,4 @@ To run the servers in the `final` folder:
    }
    ```
 
-## Getting Help
 
-For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
